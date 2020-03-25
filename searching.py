@@ -1,3 +1,11 @@
+#Contents:
+#
+# 1.Linear Search
+# 2.Binary search
+# 3.Jump Search
+# 4.Interpolation Search
+# 5.Exponential Search
+
 from math import *
 
 #Linear search algorithm O(n)
